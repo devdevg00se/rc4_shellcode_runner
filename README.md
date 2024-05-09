@@ -1,4 +1,4 @@
-# Shellcode runner with RC4 Encryption
+# Shellcode Runner in C with RC4 Encryption
 Two C programs. One encrypts shellcode via RC4. The other decrypts the RC4-encrypted shellcode at runtime and executes it.
 
 ## How to use
